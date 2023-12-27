@@ -3,3 +3,5 @@ Gunicorn
 pandas==2.1.4
 numpy==1.26.2
 gensim==4.3.2
+nltk==3.8.1
+word2vec==0.11.1
